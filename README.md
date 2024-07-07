@@ -2,7 +2,7 @@
 
 ![foto](https://github.com/fatalizada/fatalizada/blob/main/assets/planets-12491759.jpg)
 
-## I am a beginner tester and I want to work and I will work
+## I'm a novice QA engineer.
 
 ### Langueges and Tools
 ![Static Badge](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MySQL&logoColor=087993)
