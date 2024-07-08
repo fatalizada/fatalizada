@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![foto](https://github.com/fatalizada/fatalizada/blob/main/assets/assets/planetary movement (1720439753063) (online-video-cutter.com).mp4)
+![foto](https://github.com/fatalizada/fatalizada/blob/main/assets/planetary%20movement%20(1720439753063)%20(online-video-cutter.com).mp4)
 
 ## I'm a novice QA engineer.
 
