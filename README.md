@@ -1,5 +1,5 @@
 ### Hi there 👋
-|:-------------------------:|
+|:----:|  
 ![GIF](https://github.com/fatalizada/fatalizada/blob/main/assets/planetarymovement_gif.gif)
 
 ## I'm a novice QA engineer.
