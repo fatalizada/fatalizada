@@ -1,7 +1,7 @@
 ### Hi there 👋
-|:----:|  
+<div style="text-align:center;"> 
 ![GIF](https://github.com/fatalizada/fatalizada/blob/main/assets/planetarymovement_gif.gif)
-
+</div>
 ## I'm a novice QA engineer.
 
 ### Langueges and Tools
