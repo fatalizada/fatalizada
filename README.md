@@ -1,7 +1,9 @@
 ### Hi there 👋
-<div style="text-align:center;"> 
-![GIF](https://github.com/fatalizada/fatalizada/blob/main/assets/planetarymovement_gif.gif)
-</div>
+
+<p align="center">
+  <img src="https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg">
+</p>
+
 ## I'm a novice QA engineer.
 
 ### Langueges and Tools
