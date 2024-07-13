@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/fatalizada/fatalizada/blob/main/assets/planetarymovement_gif.gif">
 </p>
+
 ## I'm a novice QA engineer.
 
 ### Langueges and Tools
